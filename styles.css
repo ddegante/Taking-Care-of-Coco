@@ -1,0 +1,42 @@
+.pout {
+    display: none;
+}
+.pet {
+    display: none;
+}
+.jax {
+    display: none;
+}
+.boba  {
+    display: none;
+}
+.ramen  {
+    display: none;
+}
+.sleep {
+    display: none;
+}
+.cuddle { 
+ display: none;   
+}
+.sleeps {
+    display: none;
+}
+.bobatea {
+    display: none;
+}
+.ramennoodles {
+    display: none;
+}
+.friend-jax {
+    display: none;
+}
+
+.options {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+h1 { 
+    color: #760829;
+}
